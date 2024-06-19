@@ -1,0 +1,39 @@
+ASSIGNMENT-3
+1.To quickly generate the HTML boilerplate using Emmet, you can use the shortcut: html:5 followed 
+by pressing the Tab key. This expands to the full HTML5 boilerplate code.
+
+2.The DOCTYPE declaration appears at the very beginning of an HTML document and is not an HTML 
+tag. It tells the browser the version of HTML being used, which helps ensure that the page is 
+rendered correctly.
+
+3.Void elements are HTML tags that do not need a closing tag and are self-contained. 
+Examples include:
+<br> for line breaks
+<img> for images
+<input> for input fields
+
+4.Difference Between Elements and Attributes
+Element: Elements define the structure and content of a web page. 
+Examples include:<div> for divisions
+<p> for paragraphs
+<a> for hyperlinks
+Attribute: Attributes provide additional information about HTML elements. 
+Examples include:
+src for specifying the source of an image
+height and width for specifying dimensions
+href for specifying the URL of a link
+
+5.HTML entities are used to represent special characters in HTML. They ensure that characters are 
+displayed correctly on web pages. 
+For instance:
+&copy; or &#169; for the copyright symbol (©)
+&reg; or &#174; for the registered trademark symbol (®)
+
+6.Meta tags provide metadata about the HTML document and are placed within the <head> section. 
+They are crucial for SEO (Search Engine Optimization), specifying character sets, page descriptions, 
+keywords, author of the document, and viewport settings.
+
+7.Best Way to Add Images to a Website
+Using a CDN (Content Delivery Network) is one of the best ways to add images to a website. CDNs 
+can deliver images quickly and efficiently, improving website performance and load times by serving 
+images from geographically distributed servers.
